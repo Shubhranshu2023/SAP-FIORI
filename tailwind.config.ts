@@ -66,7 +66,7 @@ const config = {
           900: "#064e3b",
           950: "#022c22",
         },
-        teal: {
+        fuchsia: {
           50: "#f0fdfa",
           100: "#ccfbf1",
           200: "#99f6e4",

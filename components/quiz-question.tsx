@@ -122,7 +122,7 @@ export default function QuizQuestion({
       transition={{ duration: 0.3 }}
     >
       <Card className="shadow-lg border-0 overflow-hidden">
-        <CardHeader className="bg-gradient-to-r from-purple-600 to-teal-600 text-white">
+        <CardHeader className="bg-gradient-to-r from-purple-600 to-fuchsia-600 text-white">
           <CardTitle className="text-xl">Question {question.id}</CardTitle>
         </CardHeader>
         <CardContent className="p-6">

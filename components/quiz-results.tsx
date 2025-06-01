@@ -53,7 +53,7 @@ export default function QuizResults({
       transition={{ duration: 0.5 }}
     >
       <Card className="shadow-lg border-0 overflow-hidden">
-        <CardHeader className="bg-gradient-to-r from-purple-600 to-teal-600 text-white text-center py-8">
+        <CardHeader className="bg-gradient-to-r from-purple-600 to-fuchsia-600 text-white text-center py-8">
           <div className="flex justify-center mb-4">
             <Award className="h-16 w-16" />
           </div>
