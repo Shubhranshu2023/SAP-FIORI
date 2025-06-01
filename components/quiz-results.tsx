@@ -22,16 +22,16 @@ export default function QuizResults({ score, totalQuestions, onRestart, onReview
   let color = ""
 
   if (percentage >= 90) {
-    message = "Excellent! You have mastered SAP IBP!"
+    message = "Excellent! You have mastered SAP FIORI!"
     color = "text-emerald-600"
   } else if (percentage >= 70) {
-    message = "Great job! You have a solid understanding of SAP IBP."
+    message = "Great job! You have a solid understanding of SAP FIORI."
     color = "text-emerald-600"
   } else if (percentage >= 50) {
-    message = "Good effort! You have a basic understanding of SAP IBP."
+    message = "Good effort! You have a basic understanding of SAP FIORI."
     color = "text-yellow-600"
   } else {
-    message = "Keep learning! You'll improve your SAP IBP knowledge."
+    message = "Keep learning! You'll improve your SAP FIORI knowledge."
     color = "text-red-600"
   }
 

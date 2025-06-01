@@ -115,7 +115,7 @@ export default function QuizApp() {
         <CardContent className="p-6 md:p-8">
           <div className="space-y-6">
             <div className="text-center">
-              <h2 className="text-xl font-semibold mb-2">Welcome to the SAP IBP Quiz!</h2>
+              <h2 className="text-xl font-semibold mb-2">Welcome to the SAP FIORI Quiz!</h2>
               <p className="text-gray-600">
                 Test your knowledge of SAP Integrated Business Planning with this interactive quiz by Shubhranshu.
               </p>
