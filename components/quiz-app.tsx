@@ -124,7 +124,7 @@ export default function QuizApp() {
                 Welcome to the SAP FIORI Quiz!
               </h2>
               <p className="text-gray-600">
-                Test your knowledge of SAP Integrated Business Planning with
+                Test your knowledge of SAP FIORI with
                 this interactive quiz by Shubhranshu.
               </p>
             </div>
