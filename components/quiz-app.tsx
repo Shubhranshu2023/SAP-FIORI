@@ -113,7 +113,7 @@ export default function QuizApp() {
         <CardHeader className="bg-gradient-to-r from-purple-600 to-fuchsia-600 text-white">
           <CardTitle className="text-2xl md:text-3xl font-bold flex items-center justify-center gap-2">
             <Sparkles className="h-6 w-6" />
-            SAP IBP QUIZ
+            SAP FIORI QUIZ
             <Sparkles className="h-6 w-6" />
           </CardTitle>
         </CardHeader>
