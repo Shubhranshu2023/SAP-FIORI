@@ -105,7 +105,7 @@ export default function QuizApp() {
   if (showIntro) {
     return (
       <Card className="w-full shadow-lg border-0 overflow-hidden animate-fade-in">
-        <CardHeader className="bg-gradient-to-r from-emerald-600 to-teal-600 text-white">
+        <CardHeader className="bg-gradient-to-r from-purple-600 to-fuchsia-600 text-white">
           <CardTitle className="text-2xl md:text-3xl font-bold flex items-center justify-center gap-2">
             <Sparkles className="h-6 w-6" />
             SAP FIORI QUIZ
@@ -131,7 +131,7 @@ export default function QuizApp() {
             </div>
             <Button
               onClick={startQuiz}
-              className="w-full bg-emerald-600 hover:bg-emerald-700 text-white py-2 rounded-lg transition-all"
+              className="w-full bg-purple-500 hover:bg-purple-600 text-white py-2 rounded-lg transition-all"
             >
               Start Quiz
             </Button>
