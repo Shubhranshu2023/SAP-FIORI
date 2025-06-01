@@ -108,7 +108,7 @@ export default function QuizApp() {
         <CardHeader className="bg-gradient-to-r from-emerald-600 to-teal-600 text-white">
           <CardTitle className="text-2xl md:text-3xl font-bold flex items-center justify-center gap-2">
             <Sparkles className="h-6 w-6" />
-            SAP IBP QUIZ
+            SAP FIORI QUIZ
             <Sparkles className="h-6 w-6" />
           </CardTitle>
         </CardHeader>
@@ -117,7 +117,7 @@ export default function QuizApp() {
             <div className="text-center">
               <h2 className="text-xl font-semibold mb-2">Welcome to the SAP FIORI Quiz!</h2>
               <p className="text-gray-600">
-                Test your knowledge of SAP Integrated Business Planning with this interactive quiz by Shubhranshu.
+                Test your knowledge of SAP FIORI with this interactive quiz by Shubhranshu.
               </p>
             </div>
             <div className="bg-emerald-50 p-4 rounded-lg">
